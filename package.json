@@ -1,0 +1,19 @@
+{
+    "name": "snapon",
+    "version": "0.0.1",
+    "description": "utility library",
+    "url": "http://programmersgroove.cu.cc/snapon",
+
+    "author": "Dmitry Matveev <contact@dmitrymatveev.cu.cc>",
+    "license": "© 2014 WTFPL – Do What the Fuck You Want to Public License.",
+    "contributors": [
+        { "name": "Charlie Robbins", "email": "charlie@nodejitsu.com" },
+        { "name": "Maciej Malecki", "email": "maciej@nodejitsu.com" }
+    ],
+
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/dmitrymatveev/snapon"
+    }
+}
