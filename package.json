@@ -4,11 +4,9 @@
     "description": "utility library",
     "url": "http://programmersgroove.cu.cc/snapon",
 
-    "author": "Dmitry Matveev <contact@dmitrymatveev.cu.cc>",
+    "author": "Dmitry Matveev <dmitry.matveev.nz@gmail.com>",
     "license": "© 2014 WTFPL – Do What the Fuck You Want to Public License.",
     "contributors": [
-        { "name": "Charlie Robbins", "email": "charlie@nodejitsu.com" },
-        { "name": "Maciej Malecki", "email": "maciej@nodejitsu.com" }
     ],
 
     "main": "index.js",
