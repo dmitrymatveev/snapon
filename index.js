@@ -1,5 +1,5 @@
 
 module.exports = {
 
-    Klass : require('./lib/Klass.js');
+    Klass : require('./lib/Klass.js')
 }
