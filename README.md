@@ -2,6 +2,9 @@
 
 Handy tools for boring jobs.
 
+[Documentation](http://dmitrymatveev.github.io/snapon.github.io/)
+
+
 # License
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE

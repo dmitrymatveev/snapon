@@ -1,8 +1,7 @@
 {
     "name": "snapon",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "description": "utility library",
-    "url": "http://programmersgroove.cu.cc/snapon",
 
     "author": "Dmitry Matveev <dmitry.matveev.nz@gmail.com>",
     "license": "© 2014 WTFPL – Do What the Fuck You Want to Public License.",
