@@ -9,15 +9,11 @@ module.exports = {
      * @function
      * @see module:snapon/Klass
      */
-    Klass : requireOnDemand.bind(this, './lib/Klass'),
+    Klass : require('./lib/Klass'),
 
     /**
      * @function
      * @see module:snapon/util
      */
-    util : requireOnDemand.bind(this, './lib/util')
+    util : require('./lib/util')
 };
-
-function requireOnDemand (path) {
-    return require(path);
-}
